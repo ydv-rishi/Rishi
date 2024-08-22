@@ -1,4 +1,4 @@
-export default function ArrowIcon({ bhagawan das memorial public school , color = 'black' }) {
+export default function ArrowIcon({ 'bhagawan das memorial public school' , color = 'black' }) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
